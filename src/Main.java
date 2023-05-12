@@ -17,5 +17,6 @@ public class Main {
 
         System.out.println("NUMBER = " + id);
         System.out.printf("SALARY = U$ %.2f%n", salary);
+        sc.close();
     }
 }
